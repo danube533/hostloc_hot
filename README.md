@@ -14,3 +14,4 @@ hostloc的收藏热帖汇总，按MJJ建议，抓取收藏数≥10每月归档
 * [2023-04 收藏热帖](https://danube533.github.io/hostloc_hot/2023-04-hostloc-fav.html)
 * [2023-05 收藏热帖](https://danube533.github.io/hostloc_hot/2023-05-hostloc-fav.html)
 * [2023-06 收藏热帖](https://danube533.github.io/hostloc_hot/2023-06-hostloc-fav.html)
+* [2023-07 收藏热帖](https://danube533.github.io/hostloc_hot/2023-07-hostloc-fav.html)
